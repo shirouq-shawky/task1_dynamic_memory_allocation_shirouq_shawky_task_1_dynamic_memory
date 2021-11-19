@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(task1_dynamic_memory_allocation_shirouq_shawky_task_1_dynamic_memory)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(task1_dynamic_memory_allocation_shirouq_shawky_task_1_dynamic_memory main.cpp)
